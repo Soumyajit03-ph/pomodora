@@ -1,2 +1,3 @@
 Pomodora project:- 
 A Pomodoro timer with a graphical user interface (GUI) to enhance productivity and time management. The Pomodoro Technique, created by Francesco Cirillo, segments work into 25-minute intervals, known as Pomodoros, followed by a short break. This cycle is designed to maintain focus and prevent burnout. My project aims to simplify this method with an intuitive and user-friendly interface.
+How it works - When the user hits the start button the count down of 25 minutes begins, when it ends the countdown of 5 minutes begin which is the break period and a green tick appears at the buttom signifying one work session completed.
